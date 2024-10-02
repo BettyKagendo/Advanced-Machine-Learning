@@ -36,8 +36,7 @@
 - Davies-Bouldin Score: Measures cluster separation, with a score of 1.507 for K-means.
 
 ## Hierarchical Clustering
-- An alternative approach using Hierarchical Clustering is explored, resulting in a better silhouette score (0.6715). - - - However, the resulting clusters were not as meaningful because of the imbalance in the cluster sizes: 
-        - Hierarchical_Cluster
+- An alternative approach using Hierarchical Clustering is explored, resulting in a better silhouette score (0.6715). - - - However, the resulting clusters were not as meaningful because of the imbalance in the cluster sizes:
                - 2 : 2236
                - 1 : 3
                - 3 : 1
